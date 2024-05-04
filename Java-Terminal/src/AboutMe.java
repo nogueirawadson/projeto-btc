@@ -31,7 +31,7 @@ public class AboutMe {
 
         System.out.println("Digite sua altura: ");
           double altura = scanner.nextDouble();
-1
+
         System.out.println("Digite seu nome: ");
         String nome = scanner.next();
 
