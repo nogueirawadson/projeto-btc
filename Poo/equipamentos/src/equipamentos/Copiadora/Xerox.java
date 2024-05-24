@@ -1,4 +1,4 @@
-package equipamentos.Equipamentos.Copiadora;
+package equipamentos.Copiadora;
 
 public class Xerox implements Copiadora {
 

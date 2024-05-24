@@ -1,4 +1,4 @@
-package pacoteInterface.Impressora;
+package equipamentos.Impressora;
 
 public class LaserJet implements Impressora {
     public void imprimir() {

@@ -1,4 +1,4 @@
-package equipamentos.Equipamentos.Copiadora;
+package equipamentos.Copiadora;
 
 public interface Copiadora {
 

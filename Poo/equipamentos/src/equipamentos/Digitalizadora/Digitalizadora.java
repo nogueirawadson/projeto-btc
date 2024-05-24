@@ -1,4 +1,4 @@
-package pacoteInterface.Digitalizadora;
+package equipamentos.Digitalizadora;
 
 
 public interface Digitalizadora {

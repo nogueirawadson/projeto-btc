@@ -1,4 +1,4 @@
-package pacoteInterface.Impressora;
+package equipamentos.Impressora;
 
 public interface Impressora {
     public void imprimir();
