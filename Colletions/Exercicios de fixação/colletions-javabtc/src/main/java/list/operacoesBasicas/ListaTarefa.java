@@ -12,9 +12,7 @@ public class ListaTarefa {
 
     public ListaTarefa() {
         this.tarefaList = new ArrayList<>();
-
     }
-
     // adicionar tarefa em uma lista de tarefas
     public void adicionarTarefa(String descricao) {
         tarefaList.add(new Tarefa(descricao));
@@ -29,21 +27,15 @@ public class ListaTarefa {
             }
         }
         tarefaList.removeAll(tarefasParaRemover);
-
     }
-
     // Numero total de tarefas
     public int obterNumeroTotaldeTarefas() {
         return tarefaList.size();
-
     }
-
     // imprimindo total de tarefas
     public void obterDescricoesTarefas() {
         System.out.println(tarefaList);
     }
-
-
     public static void main( String[] args) {
        // Public String descricao();
         ListaTarefa listaTarefa = new ListaTarefa();
@@ -51,10 +43,7 @@ public class ListaTarefa {
 
         listaTarefa.adicionarTarefa("Tarefa 1");
 
-
         listaTarefa.adicionarTarefa("Tarefa 2");
-
-
 
         listaTarefa.adicionarTarefa("Tarefa 3");
 

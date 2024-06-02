@@ -1,2 +1,4 @@
-package main.java.list.ordenacao;public class Pessoa {
+package main.java.list.ordenacao;
+
+public class Pessoa {
 }

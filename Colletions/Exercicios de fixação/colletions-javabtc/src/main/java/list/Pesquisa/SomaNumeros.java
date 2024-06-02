@@ -1,2 +1,5 @@
-package main.java.list.Pesquisa;public class SomaNumeros {
+package main.java.list.Pesquisa;
+
+public class SomaNumeros {
+
 }

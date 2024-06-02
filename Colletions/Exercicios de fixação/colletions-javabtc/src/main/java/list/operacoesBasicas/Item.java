@@ -4,7 +4,7 @@ public class Item {
 
     private String produto;
 
-    public Intem(String produto) {
+    public Item(String produto) {
         this.produto = produto;
     }
 
@@ -12,4 +12,9 @@ public class Item {
         return produto;
     }
 
+    @Override
+    public String toString() {
+        return "" +
+                "produto='" + produto ;
+    }
 }
